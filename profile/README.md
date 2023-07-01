@@ -1,7 +1,7 @@
 ## Welcome!
 
 
-I’m Ashiqur Rahman Alif. Here is somthing about me:
+I’m Ashiqur Rahman Alif.
 - 💬 You can ask me about my works or anything else
 - 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/aratheunseen)
 
