@@ -1,9 +1,9 @@
 ## Welcome!
 
 
-I’m Ashiqur Rahman Alif.
-- 💬 You can ask me about my works or anything else
-- 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/aratheunseen)
+It's aragle, a sandbox of Ashiqur Rahman Alif ([aratheunseen](https://www.github.com/aratheunseen)).
+- 💬 You can ask him about his works or anything else
+- 📫 Contact him via [LinkedIn](https://www.linkedin.com/in/aratheunseen)
 
 ## <img src="https://github.com/aratheunseen/aratheunseen/assets/62181222/a0027409-548d-4da8-b129-f421f5afb638" width="35px"> Statistics
 
@@ -16,5 +16,5 @@ I’m Ashiqur Rahman Alif.
 <a href="#">![Total stars](https://img.shields.io/github/stars/aratheunseen?logo=star&label=Unseen%20Stars)</a>
 <a href="#">![Total stars](https://img.shields.io/github/stars/aragle?logo=star&label=SandBox%20Stars)</a>
 
-✨ This statistic is based on the public repository of my profile only.<br>
-✨ You can see $\color{#C2B280}{My~Profile}$ here. ([Go to Profile](https://github.com/aratheunseen)).
+✨ This statistic is based on the public repository of [aratheunseen](https://www.github.com/aratheunseen)'s profile.<br>
+✨ You can see $\color{#C2B280}{His~Profile}$ here. ([Go to Profile](https://github.com/aratheunseen)).
