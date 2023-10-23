@@ -2,10 +2,6 @@
 
 
 It's aragle, a sandbox of Ashiqur Rahman Alif ([aratheunseen](https://www.github.com/aratheunseen)).
-- 💬 You can ask him about his works or anything else
-- 📫 Contact him via [LinkedIn](https://www.linkedin.com/in/aratheunseen)
-
-## <img src="https://github.com/aratheunseen/aratheunseen/assets/62181222/a0027409-548d-4da8-b129-f421f5afb638" width="35px"> Statistics
 
 <a href="#">![Stats Dark](https://github-readme-stats.vercel.app/api?username=aratheunseen&show_icons=true&hide=stars&show=reviews,discussions_started,discussions_answered&theme=transparent)</a>
 <a href="#">![Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=aratheunseen&theme=transparent&hide_progress=false&layout=donut&langs_count=6&size_weight=0.5&count_weight=0.5&hide=CMake)</a>
